@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'CONG03JAN',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'This is An Ugly Site',
 
   // social usernames (optional)
   twitter: '#',
