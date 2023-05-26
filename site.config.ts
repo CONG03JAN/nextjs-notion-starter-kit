@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'An Ugly Site',
-  domain: 'https://iamcong.com/',
+  domain: 'https://www.notion.so/iamcong/An-Ugly-Site-4b10c516855e45faad31d8e32ffd3a85',
   author: 'CONG03JAN',
 
   // open graph metadata (optional)
