@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'An Ugly Site',
-  domain: 'https://www.notion.so/iamcong/Next-js-Notion-Starter-Kit-Template-4b10c516855e45faad31d8e32ffd3a85',
+  domain: 'https://iamcong.com/an-ugly-site',
   author: 'CONG03JAN',
 
   // open graph metadata (optional)
