@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'An Ugly Site',
-  domain: 'https://iamcong.com/an-ugly-site',
+  domain: 'https://iamcong.com/',
   author: 'CONG03JAN',
 
   // open graph metadata (optional)
